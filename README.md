@@ -1,1 +1,1 @@
-# BogoSort Sorting Algorithm in Java
+# BogoSort Algorithm in Java
